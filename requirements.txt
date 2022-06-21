@@ -44,7 +44,7 @@ idna==2.6
 itypes==1.1.0
 kombu==4.1.0
 Markdown==2.6.8
-numpy==1.14.0
+numpy==1.22.0
 oauthlib==2.0.2
 olefile==0.44
 openapi-codec==1.0.0
